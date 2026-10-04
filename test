@@ -7,8 +7,5 @@
 #announce: Срок окончания подписки 25.10.2027
 #subscription-userinfo: upload=0; download=0; total=0; expire=0
 
-export default {
-  async fetch() {
-    const servers = [
-      // ==================== РАЗДЕЛИТЕЛЬ: ОБХОД ГЛУШИЛОК ====================
-"vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1?encryption=none&security=none&type=tcp#%F0%9F%94%B4%20%D0%9E%D0%91%D0%A5%D0%9E%D0%94%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9E%D0%9A%20%E2%9E%98","vless://2e31e26e-7fdb-5a73-9524-9046345bced6@q8z7zk.6671.ruvex.tech:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=q8z7zk.6671.ruvex.tech&fp=firefox&pbk=ldT419fqnVP63rsZpQJJAKeLGU8ZHTC7F9OwRdTTWxg&sid=f16162d008abbbcd&type=tcp&headerType=none#%C2%B9%20%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20%E2%80%94%20LTE"
+vless://00000000-0000-0000-0000-000000000000@127.0.0.1:1?encryption=none&security=none&type=tcp#%F0%9F%94%B4%20WIFI%20%D0%A1%D0%95%D0%A0%D0%92%D0%95%D0%A0%D0%90%20%E2%9E%98
+vless://2e31e26e-7fdb-5a73-9524-9046345bced6@q8z7zk.6671.ruvex.tech:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=q8z7zk.6671.ruvex.tech&fp=firefox&pbk=ldT419fqnVP63rsZpQJJAKeLGU8ZHTC7F9OwRdTTWxg&sid=f16162d008abbbcd&type=tcp&headerType=none#%C2%B9%20%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80%20%E2%80%94%20LTE"
